@@ -1,4 +1,4 @@
-A Node.js/TypeScript CLI tool that rotatesgiven csv by rules.
+A Node.js/TypeScript CLI tool that rotates given csv by rules.
 
 ## Features
 
@@ -12,10 +12,6 @@ A Node.js/TypeScript CLI tool that rotatesgiven csv by rules.
 
 `npm install`
 
-## Usage
-
-`node cli.js input.csv > output.csv`
-
 ## Build
 
 `npm run build`
@@ -23,3 +19,7 @@ A Node.js/TypeScript CLI tool that rotatesgiven csv by rules.
 ## Test
 
 `npm test`
+
+## Usage
+
+`node cli.js input.csv > output.csv`
